@@ -1,0 +1,82 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2 June 2022 14h03
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.6
+WORDPRESS:	6.0
+PHP INFO:	7.4.25 | SAPI: fpm-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: [165] not allowed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 2MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 16 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 1000)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+TABLES: total:18 | filtered:0 | create:18
+FILTERED: []
+SQL CREATED: 20220602_heorvessite_99d782d878b349a17530_20220602140337_database.sql
+SQL FILE SIZE: 2.07MB (2166021)
+SQL FILE TIME: 2022-06-02 14:03:59
+SQL RUNTIME: 0.24 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  /home/heorvez/www
+ARCHIVE FILE: 20220602_heorvessite_99d782d878b349a17530_20220602140337_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	174.7MB
+STATS:	Dirs 1,315 | Files 10,216 | Total 11,531
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files7
+add_extra_files_using_da1
+Adding enhanced installer files to archive using DupArchive
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 77.98MB
+ARCHIVE RUNTIME: 21.69 sec.
+MEMORY STACK: 12MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 2.07MB
+INSTALLER FILE: 78.46KB
+ARCHIVE FILE: 77.98MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 11,720
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 11,720
+
+********************************************************************************
+RECORD ID:[16]
+TOTAL PROCESS RUNTIME: 21.71 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20220602_heorvessite 2022-06-02 14:04:20
+
